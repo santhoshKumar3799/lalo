@@ -1,0 +1,5 @@
+[
+  {"command": "page.rename", "params": {"name": "LALO brand identity"}},
+  {"command": "file.import", "params": {"path": "C:/LALO'S/brand/source/lalo-brand-board.svg", "x": 0, "y": 0}},
+  {"command": "page.list", "params": {}}
+]
